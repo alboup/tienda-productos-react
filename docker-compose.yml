@@ -1,0 +1,11 @@
+services:
+  app:
+    container_name: app
+    image: node:22
+    working_dir: /app
+    volumes:
+      - .:/app
+    tty: true
+    stdin_open: true
+    ports:
+      - 8010:8010
