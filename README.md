@@ -29,7 +29,7 @@ Para obtener los datos de los productos deberás consumir la API pública dispon
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/cymitquimica/cymit-pt-front
+git clone https://github.com/alboup/tienda-productos-react
 cd cymit-pt-front
 
 # Levantar el entorno con Docker
